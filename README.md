@@ -10,4 +10,4 @@ I used the default Basic Activity template of Android Studio to build on the app
 
 Some libraries and data sources that I used are:
 1. Environment and Climate Change Canada HTTP Data Server ([license](http://dd.weather.gc.ca/doc/LICENCE_GENERAL.txt))
-2. Jsoup
+2. Jsoup ([license](https://jsoup.org/license))
