@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.aceurbanairchallenge.torontoaqhisticker.MainActivity">
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:title="@string/save"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_showDate"
+        android:checkable="true"
+        android:checked="false"
+        android:orderInCategory="101"
+        android:title="@string/show_date" />
+</menu>
